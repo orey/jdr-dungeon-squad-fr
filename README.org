@@ -26,18 +26,18 @@
 
 *** Les règles + un générateur de rencontres
 
-- Les règles en PDF : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquad-VersionFrancaise-OreyJdr01.pdf][DungeonSquad! Version Française]]
-- Les règles sur GitHub : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquad-VersionFrancaise-OreyJdr01.org][DungeonSquad! Version Française]]
+- Les règles en PDF : [[DungeonSquad-VersionFrancaise-OreyJdr01.pdf][DungeonSquad! Version Française]]
+- Les règles sur GitHub : [[file:DungeonSquad-VersionFrancaise-OreyJdr01.org][DungeonSquad! Version Française]]
 
 *** Feuille de personnage
 
-- Version PDF : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-FeuillePerso.pdf][Feuille de perso PDF]]
-- Version ODP : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-FeuillePerso.odp][Feuille de perso ODP]]
+- Version PDF : [[DungeonSquadFr-FeuillePerso.pdf][Feuille de perso PDF]]
+- Version ODP : [[DungeonSquadFr-FeuillePerso.odp][Feuille de perso ODP]]
 
 *** Ecran
 
-- Version PDF : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-Ecran.pdf][Ecran PDF]]
-- Version ODP : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-Ecran.odp][Ecran ODP]]
+- Version PDF : [[DungeonSquadFr-Ecran.pdf][Ecran PDF]]
+- Version ODP : [[DungeonSquadFr-Ecran.odp][Ecran ODP]]
 
 [[file:logo-orey.png]]
 
