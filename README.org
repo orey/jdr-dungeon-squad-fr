@@ -24,6 +24,8 @@
 
 ** Téléchargements
 
+Sur itch: https://rouboudou.itch.io/dungeonsquad-fr
+
 *** Les règles + un générateur de rencontres
 
 - Les règles en PDF : [[DungeonSquad-VersionFrancaise-OreyJdr01.pdf][DungeonSquad! Version Française]]
